@@ -54,16 +54,16 @@ Or run in RStudio using **Source**.
 Make sure your images are inside **plots/** folder.
 
 ### **Bar Graph**
-```markdown
-![Bar Graph](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Bar%20Graph.png)
+![Bar Graph](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Bar%20Graph.png?raw=true)
+
 
 ### **Histogram**
-```markdown
-![Histogram](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Histogram.png)
+![Histogram](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Histogram.png?raw=true)
+
 
 ### **Scatter Plot**
-```markdown
-![Scatter Plot](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Scatter%20Plot.png)
+![Scatter Plot](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Scatter%20Plot.png?raw=true)
+
 
 
 
