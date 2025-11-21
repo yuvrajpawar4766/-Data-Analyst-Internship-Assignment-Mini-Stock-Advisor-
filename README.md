@@ -5,7 +5,7 @@ A simple rule-based (NO machine learning) stock advisor that generates **BUY / S
 ## 🧠 Project Overview
 
 ### **1️⃣ Compute Daily Percentage Change**
-
+percentage_change = ((closing_price - opening_price) / opening_price) * 100
 
 ### **2️⃣ BUY Rules**
 A **BUY** signal is generated if ANY ONE is true:
@@ -24,9 +24,6 @@ A HOLD signal is assigned when:
 
 ---
 
-
----
-
 ## 🐍 Python Script (stock_advisor.py)
 
 The Python script:
@@ -36,5 +33,38 @@ The Python script:
 - Outputs BUY / SELL / HOLD for each day  
 
 Run using:
+
+---
+
+## 📊 R Script (plots.R)
+
+The R script generates:
+- Bar plot (BUY / SELL / HOLD counts)
+- Histogram (percentage change distribution)
+- Scatter plot (Open vs Close)
+
+Run using:
+
+Or run in RStudio using **Source**.
+
+---
+
+# 🖼 Plot Preview (Embed PNG Files)
+
+Make sure your images are inside **plots/** folder.
+
+### **Bar Graph**
+```markdown
+![Bar Graph]([plots/barplot.png](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Bar%20Graph.png))
+
+### **Histogram**
+```markdown
+![Histogram]([plots/barplot.png](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Histogram.png))
+
+### **Scatter Plot**
+```markdown
+![Scatter Plot]([plots/barplot.png](https://github.com/yuvrajpawar4766/-Data-Analyst-Internship-Assignment-Mini-Stock-Advisor-/blob/e3d452a555f3d31adbd8174211de14acfc5d3560/Scatter%20Plot.png))
+
+
 
 
